@@ -1,5 +1,7 @@
 # Cloudflare Sitemap Purger
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/abdulhannanali/cloudflare-sitemap-purger.svg)](https://greenkeeper.io/)
+
 Purges all the urls in a CloudFlare Zone's Cache by reading and parsing a sitemap.
 
 ### Usecase
